@@ -1977,6 +1977,27 @@ body {
 .cid-ryq2HJfVar .mbr-section-subtitle DIV {
   text-align: left;
 }
+.cid-ryqIERJK49 {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-ryqIERJK49 .image-block {
+  margin: auto;
+}
+.cid-ryqIERJK49 figcaption {
+  position: relative;
+}
+.cid-ryqIERJK49 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ryqIERJK49 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
